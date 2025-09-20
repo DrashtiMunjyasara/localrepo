@@ -11,3 +11,5 @@ if(og==rev_str):
     print("palindrome")
 else:
     print("Not palindrome")
+
+#to check whether the string is palindrome or not.
