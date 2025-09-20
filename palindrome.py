@@ -12,4 +12,11 @@ if(og==rev_str):
 else:
     print("Not palindrome")
 
+
 #to check whether the string is palindrome or not ?.
+
+#to check whether the string is palindrome or not .hii.
+
+#to check whether the string is palindrome or not ?.
+
+
